@@ -1,6 +1,6 @@
-## Herucie
+# Herucie
 
-# Bienvenue sur l'organisation officielle d'Herucie.
+## Bienvenue sur l'organisation officielle d'Herucie.
 
 > Mais qui êtes-vous ?
 Nous sommes un serveur minecraft mini-jeux.
